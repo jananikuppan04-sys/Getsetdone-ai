@@ -1,0 +1,6 @@
+{
+  "name": "GetSetDone",
+  "description": "AI-powered deadline execution companion for students, professionals, freelancers, and founders. Less panic. More progress.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
